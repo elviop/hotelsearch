@@ -1,43 +1,51 @@
-.btn-id90{
-	background: #2ac9cc;
-	color: white;
-	width: 100%;
+.btn-id90 {
+    background: #2ac9cc;
+    color: white;
+    width: 100%;
 }
-.green-id90{
-	color: #2ac9cc;
+
+.green-id90 {
+    color: #2ac9cc;
 }
-.yellow-id90{
-	color: #c9cc2a;
+
+.yellow-id90 {
+    color: #c9cc2a;
 }
-.blue-id90{
-	color:#2a78cc;
+
+.blue-id90 {
+    color: #2a78cc;
 }
-.green-id90{
-	color:#2acc7e;
+
+.green-id90 {
+    color: #2acc7e;
 }
-.pink-id90{
-	color:#cc2a78
+
+.pink-id90 {
+    color: #cc2a78
 }
-.container{
-	padding-top: 10px;
+
+.container {
+    padding-top: 10px;
 }
+
 .error {
-	color:red;
+    color: red;
 }
-.bg-blue-id90{
-	background: #2a78cc;
-}
-.hotel-card{
-	padding: 10px;
-}
-.boxshadow{
-	-webkit-box-shadow: 0px 6px 11px 0px rgba(0,0,0,0.75);
-	-moz-box-shadow: 0px 6px 11px 0px rgba(0,0,0,0.75);
-	box-shadow: 0px 6px 11px 0px rgba(0,0,0,0.75);
-}
-.bg-img{
 
-background-image: url("/img/florida.jpg");
- 
+.bg-blue-id90 {
+    background: #2a78cc;
+}
 
+.hotel-card {
+    padding: 10px;
+}
+
+.boxshadow {
+    -webkit-box-shadow: 0px 6px 11px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 6px 11px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 6px 11px 0px rgba(0, 0, 0, 0.75);
+}
+
+.bg-img {
+    background-image: url("/img/florida.jpg");
 }
